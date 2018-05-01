@@ -2,7 +2,7 @@
 ## Hosted with ❤️ by BostonHacks, led by Lucas Watson
 
 ### Slides
-Found here:
+Found here: https://goo.gl/aYwEaV
 
 ### Installing OpenCV
 
@@ -10,7 +10,7 @@ The proper way to install OpenCV is by building the source: https://opencv.org/r
 
 For today, you can just install it via a pip package. **Only do this if you don't already have OpenCV, multiple installations will conflict**. 
 
-***Important, use pip3 if you have multiple Python installations***
+***Important, use pip3 if you use multiple Python versions***
 
 ```
 pip3 install opencv-contrib-python
